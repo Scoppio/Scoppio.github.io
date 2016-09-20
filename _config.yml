@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Scoppio.github.io
+title: Casual Correlation
+email: developer.coppio@gmail.com
+author: Lucas Coppio
+description: Data mining, analysis and mambo jambo.
+paginate: 3
+google_analytics: UA-84533500-1
