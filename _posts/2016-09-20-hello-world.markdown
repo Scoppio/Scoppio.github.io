@@ -1,6 +1,10 @@
 ---
 published: true
-title: Hello World
+title: Casual Correlation
 layout: post
 ---
-First test, first post! :D
+Ciao!
+
+I am Lucas Coppio and here you can read my ramblings about data science and my personal projects.
+
+So lets start!
