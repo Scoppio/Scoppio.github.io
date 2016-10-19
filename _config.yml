@@ -4,6 +4,7 @@ markdown: kramdown
 url: http://Scoppio.github.io
 title: Casual Correlation
 email: developer.coppio@gmail.com
+highlighter: rouge
 author: Lucas Coppio
 description: Data mining, analysis and mambo jambo.
 paginate: 3
